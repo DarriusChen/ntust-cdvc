@@ -4,7 +4,7 @@
 
 ## 本機開發
 
-需求：Node.js 20.9 或更新版本。
+需求：Node.js >=22.0.0。
 
 ```bash
 npm install
